@@ -1,4 +1,4 @@
-## Hi there 👋
+WebSockit2me is a WebSocket to TCP gateway built on TclHttpd for both noVNC and the WebSocket Telnet Client.
 
 <!--
 **WebSockit2me/Websockit2me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
