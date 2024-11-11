@@ -32,7 +32,7 @@ Click on the Static link at the bottom of the page to connect with a VNC Server 
 
 Quick Start Guide
 
-    Download the Tclkit suitable for your platform from Tclkit Downloads page.
+    Download the Tclkit suitable for your platform from Tclkit Downloads page. http://tclkits.rkeene.org/fossil/wiki/Downloads
     Download the WebSockit2me Starkit from WebSockit2me.kit (IE Browsers right click on the link and select "Save target as...")
     Create a directory for example
 
