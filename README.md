@@ -62,7 +62,7 @@ Quick Start Guide
 
     drag WebSockit2me.kit over tclkit-8.6.3.exe and release 
 
-Point your browser to http://<<Your IP Address>>:8015/
+Point your browser to http://Your-IP-Address:8015/
 
 Important
 
